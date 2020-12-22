@@ -27,7 +27,8 @@ Objetivos específicos
 
 
 ###  Diagramas	
-! [ DIAGRAMA ] (https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)	
+
+![DIAGRAMA](https://user-images.githubusercontent.com/76136485/102864217-be1a9000-4401-11eb-9d4a-af394c763bb4.png)
 
 > Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito	
 
