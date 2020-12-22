@@ -91,12 +91,7 @@ Objetivos específicos
 
 ### Conclusiones
 
--	La medición es muy importante en el área de estudio no solo en Circuitos sino también en todas las áreas de estudio que trabajen con números y medidas, ya que se requiere del conocimiento necesario para el uso adecuado de las herramientas y los instrumentos en el laboratorio.
 
--	El uso de los instrumentos de medición nos permite un trabajo con gran precisión tomando en cuenta los errores mismos presente en cada instrumento como es la fuente de voltaje y multímetros digitales, la simulación de medidas nos dio un mayor conocimiento entendiendo las distintas funciones, pero logrando un mismo objetivo que es darnos a conocer los valores y medidas.
-
-
--	El deseo de una mayor precisión al realizar experimentos o trabajos nos implica el mejoramiento de las mediciones, debido a que estas apoyan nuestro trabajo, los resultados obtenidos mediante la simulación realizada en la práctica de este laboratorio tienen margen de error mínimo debido que son datos computarizados, en consecuencia los resultados obtenidos para la tabla eran más precisos que si se realizara una medición física que está sujeta a cometerse más equivocaciones.
 
 
 ### Bibliografía
