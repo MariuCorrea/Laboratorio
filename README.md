@@ -2,7 +2,7 @@
 
 Laboratorio1_FDC_4877	
 
-** Informe Laboratorio 1 **	
+**Informe Laboratorio 1**
 
 - David López	
 - Mariú Correa	
@@ -59,7 +59,7 @@ Objetivos específicos
 
 > Tabla 1. 3. Verificación de la LCK	
 
-|  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | |f | 
+|  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | | | 
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  |
 | IT (mA) |   |   |   |   |   |   |   |   |   |   |
