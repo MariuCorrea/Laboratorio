@@ -59,17 +59,16 @@ Objetivos específicos
 
 > Tabla 1. 3. Verificación de la LCK	
 
-| * CORRIENTE * | Nodo 1 | Nodo 2 | Nodo 3 | Nodo 4 | Nodo 5 | | | | | |	|
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |	
-| | Calculado | Medido | Calculado | Medido | Calculado | Medido | Calculado | Medido | Calculado | Medido |	
-| IT (mA) | | | | | | | | | | |	
-| IR1 (mA) | | | | | | | | | | |	
-| IR2 (mA) | | | | | | | | | | |	
-| IR3 (mA) | | | | | | | | | | |	
-| IR4 (mA) | | | | | | | | | | |	
-| IR5 (mA) | | | | | | | | | | |	
-| ΣI | | | | | | | | | | f |	
-
+|  **CORRIENTE** |  Nodo 1 | Nodo 2  | Nodo 3  | Nodo 4   | Nodo 5  | | | | |f | 
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  | Calculado  | Medido  |
+| IT (mA) |   |   |   |   |   |   |   |   |   |   |
+| IR1 (mA)|   |   |   |   |   |   |   |   |   |   |
+| IR2 (mA)|   |   |   |   |   |   |   |   |   |   |
+| IR3 (mA)|   |   |   |   |   |   |   |   |   |   |
+| IR4 (mA)|   |   |   |   |   |   |   |   |   |   |
+| IR5 (mA)|   |   |   |   |   |   |   |   |   |   |
+| ΣI      |   |   |   |   |   |   |   |   |   | f  |
 
 ###  Lista de componentes  	
 ------------	
