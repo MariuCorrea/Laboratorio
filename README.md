@@ -97,6 +97,8 @@ Objetivos específicos
 
 - La simulación de medidas da un mayor conocimiento entendiendo las distintas funciones, pero logrando un mismo objetivo que es dar a conocer los valores y medidas; el deseo de una mayor precisión al realizar experimentos o trabajos implica el mejoramiento de las mediciones, debido a que estas apoyan el trabajo, los resultados obtenidos mediante la simulación realizada en la práctica de este laboratorio tienen margen de error mínimo debido que son datos computarizados, en consecuencia los resultados obtenidos para la tabla eran más precisos que si se realizara una medición física que está sujeta a cometerse más equivocaciones.
 
+- Los datos de la tabla que se obtienen del simulador se sustentan y demuestran su procedencia teórica basados a los cálculos de las leyes de Kirchhoff, los cuales al ser correctamente aplicados brindarán datos que serán muy cercanos a los del simulador, con pequeño margen de error aceptable.
+
 ### Bibliografía
 
 -	Cristian Veloso. (2016, Jule 5). LEYES DE KIRCHHOFF. Retrieved December 22, 2020, from ETOOLS Recuperado de: https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
