@@ -84,3 +84,9 @@ Objetivos específicos
 | 1 | Resistencia de 3,9 k Ω |	
 | 1 | Protoboard |	
 ------------
+
+### Explicación
+
+[Link Video](https://www.youtube.com/watch?v=JEmUxMcAUco "Link Video")
+
+
