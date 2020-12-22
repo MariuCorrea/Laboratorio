@@ -101,7 +101,7 @@ Objetivos específicos
 
 ### Bibliografía
 
--	Cristian Veloso. (2016, Jule 5). LEYES DE KIRCHHOFF. Retrieved December 22, 2020, from ETOOLS Recuperado de: https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
+-	Cristian Veloso. (2016, July 5). LEYES DE KIRCHHOFF. Retrieved December 22, 2020, from ETOOLS Recuperado de: https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
 
 -	Willy McAllister. (2015). Las leyes de Kirchhoff. Retrieved December 22, 2020, from Khan Academy Recuperado de: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws 
 
