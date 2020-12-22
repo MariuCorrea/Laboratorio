@@ -19,7 +19,7 @@ Objetivos generales
 Objetivos específicos	
 - Demostrar las leyes de Krichhoff de voltajes y corrientes calculos y una simulación.	
 - Aprender la utilidad e implementación de componentes eléctricos.	
-- Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.	
+- Medir corrientes eléctricas en los elementos del circuito y hacer la comparación con el cálculo manual.	
 
 ###  Marco Teórico	
 
@@ -35,15 +35,15 @@ Objetivos específicos
 | * Variable * | * Valor Calculado * | * Valor Medido * |	
 | ------------ | ------------ | ------------ |	
 | VR1 (V) | 10 V | 10 V |	
-| IR1 (mA) | | |	
+| IR1 (mA) |10 mA |10 mA |	
 | VR2 (V) | 10 V | 10 V |	
-| IR2 (mA) | | |	
+| IR2 (mA) |2.56 mA |2.56 mA |	
 | VR3 (V) | 5 V | 5 V |	
-| IR3 (mA) | | |	
+| IR3 (mA) |2.27 mA | 2.27 mA |	
 | VR4 (V) | 5 V | 5 V |	
-| IR4 (mA) | | |	
+| IR4 (mA) |2.27 mA |2.27 mA |	
 | VR5 (V) | 10 V | 10 V |	
-| IR5 (mA) | | |	
+| IR5 (mA) |5.55 mA |5.55 mA |	
 
 
 > Tabla 1. 2. Verificación de la LVK	
@@ -84,3 +84,24 @@ Objetivos específicos
 | 1 | Resistencia de 3,9 k Ω |	
 | 1 | Protoboard |	
 ------------
+
+### Explicación
+
+[Link Video](https://www.youtube.com/watch?v=JEmUxMcAUco "Link Video")
+
+### Conclusiones
+
+-	La medición es muy importante en el área de estudio no solo en Circuitos sino también en todas las áreas que trabajen con números y medidas, ya que se requiere del conocimiento necesario para el uso adecuado de las herramientas y los instrumentos en el laboratorio.
+
+-	El uso de los instrumentos de medición permite un trabajo con mayor precisión, tomando en cuenta los errores mínimos presentes en cada instrumento como es la fuente de voltaje y multímetros digitales. 
+
+- La simulación de medidas da un mayor conocimiento entendiendo las distintas funciones, pero logrando un mismo objetivo que es dar a conocer los valores y medidas; el deseo de una mayor precisión al realizar experimentos o trabajos implica el mejoramiento de las mediciones, debido a que estas apoyan el trabajo, los resultados obtenidos mediante la simulación realizada en la práctica de este laboratorio tienen margen de error mínimo debido que son datos computarizados, en consecuencia los resultados obtenidos para la tabla eran más precisos que si se realizara una medición física que está sujeta a cometerse más equivocaciones.
+
+- Los datos de la tabla que se obtienen del simulador se sustentan y demuestran su procedencia teórica basados a los cálculos de las leyes de Kirchhoff, los cuales al ser correctamente aplicados brindarán datos que serán muy cercanos a los del simulador, con pequeño margen de error aceptable.
+
+### Bibliografía
+
+-	Cristian Veloso. (2016, Jule 5). LEYES DE KIRCHHOFF. Retrieved December 22, 2020, from ETOOLS Recuperado de: https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
+
+-	Willy McAllister. (2015). Las leyes de Kirchhoff. Retrieved December 22, 2020, from Khan Academy Recuperado de: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws 
+
