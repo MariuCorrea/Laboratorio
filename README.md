@@ -19,7 +19,7 @@ Objetivos generales
 Objetivos específicos	
 - Demostrar las leyes de Krichhoff de voltajes y corrientes calculos y una simulación.	
 - Aprender la utilidad e implementación de componentes eléctricos.	
-- Medir corrientes eléctricas en los elemntos del circuito y hacer la comparación con el cálculo manual.	
+- Medir corrientes eléctricas en los elementos del circuito y hacer la comparación con el cálculo manual.	
 
 ###  Marco Teórico	
 
@@ -91,8 +91,9 @@ Objetivos específicos
 
 ### Conclusiones
 
+-	La medición es muy importante en el área de estudio no solo en Circuitos sino también en todas las áreas que trabajen con números y medidas, ya que se requiere del conocimiento necesario para el uso adecuado de las herramientas y los instrumentos en el laboratorio.
 
-
+-	El uso de los instrumentos de medición permite un trabajo con gran precisión tomando en cuenta los errores mínimos presentes en cada instrumento como es la fuente de voltaje y multímetros digitales, la simulación de medidas da un mayor conocimiento entendiendo las distintas funciones, pero logrando un mismo objetivo que es dar a conocer los valores y medidas; el deseo de una mayor precisión al realizar experimentos o trabajos implica el mejoramiento de las mediciones, debido a que estas apoyan el trabajo, los resultados obtenidos mediante la simulación realizada en la práctica de este laboratorio tienen margen de error mínimo debido que son datos computarizados, en consecuencia los resultados obtenidos para la tabla eran más precisos que si se realizara una medición física que está sujeta a cometerse más equivocaciones.
 
 ### Bibliografía
 
