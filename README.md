@@ -35,15 +35,15 @@ Objetivos específicos
 | * Variable * | * Valor Calculado * | * Valor Medido * |	
 | ------------ | ------------ | ------------ |	
 | VR1 (V) | 10 V | 10 V |	
-| IR1 (mA) | | |	
+| IR1 (mA) |10 mA |10 mA |	
 | VR2 (V) | 10 V | 10 V |	
-| IR2 (mA) | | |	
+| IR2 (mA) |2.56 mA |2.56 mA |	
 | VR3 (V) | 5 V | 5 V |	
-| IR3 (mA) | | |	
+| IR3 (mA) |4.54 mA | 4.54 mA |	
 | VR4 (V) | 5 V | 5 V |	
-| IR4 (mA) | | |	
+| IR4 (mA) |4.54 mA |4.54 mA |	
 | VR5 (V) | 10 V | 10 V |	
-| IR5 (mA) | | |	
+| IR5 (mA) |5.55 mA |5.55 mA |	
 
 
 > Tabla 1. 2. Verificación de la LVK	
