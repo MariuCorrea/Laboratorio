@@ -23,10 +23,12 @@ Objetivos específicos
 
 ###  Marco Teórico	
 
-! [ 1608564921 Infographic Template_page-0001 ] (https://user-images.githubusercontent.com/76136485/102854377-66bff400-43f0-11eb-981c-1d354147f6ba.jpg)	
+![1608564921 Infographic Template_page-0001](https://user-images.githubusercontent.com/76136485/102864135-9d523a80-4401-11eb-9f6d-5e8e8d6b2d12.jpg)
+
 
 ###  Diagramas	
-! [ DIAGRAMA ] (https://user-images.githubusercontent.com/76136049/102853991-7ee34380-43ef-11eb-8b93-14943b13546a.png)	
+
+![DIAGRAMA](https://user-images.githubusercontent.com/76136485/102864217-be1a9000-4401-11eb-9d4a-af394c763bb4.png)
 
 > Tabla 1. 1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito	
 
